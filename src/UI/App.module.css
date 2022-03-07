@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+.card{
+    background-color: black;
+    padding-top: .3rem;
+}
+
+.card h1 {
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding-bottom: .3rem;
+}
